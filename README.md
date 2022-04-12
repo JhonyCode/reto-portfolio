@@ -1,2 +1,2 @@
 # reto-portfolio
-Porfolio made with Boostrap5, actually in progress.
+Portfolio made with Boostrap5, actually in progress.
